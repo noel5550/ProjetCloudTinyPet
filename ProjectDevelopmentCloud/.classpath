@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="src" output="build/test-classes" path="src/test/java"/>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/com.google.cloud.tools.eclipse.appengine.standard.runtimeClasspathProvider/App Engine Standard Runtime">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/jstl-1.2.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/appengine-api-1.0-sdk-1.9.63.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/apiJar/appengine-api-1.0-sdk-1.9.18.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/apiJar/appengine-api-labs.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/apiJar/appengine-endpoints-deps.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/apiJar/appengine-endpoints.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/apiJar/appengine-jsr107cache-1.9.18.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/apiJar/asm-4.0.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/apiJar/datanucleus-api-jdo-3.1.3.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/apiJar/datanucleus-api-jpa-3.1.3.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/apiJar/datanucleus-appengine-2.1.2.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/apiJar/datanucleus-core-3.1.3.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/apiJar/geronimo-jpa_2.0_spec-1.0.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/apiJar/jdo-api-3.0.1.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/apiJar/jsr107cache-1.1.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/apiJar/jta-1.1.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
